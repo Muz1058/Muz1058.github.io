@@ -110,6 +110,7 @@ nav {
     background-clip: padding-box;
     border: 1.5px solid rgba(255, 255, 255, 0.3);
     background-color: rgba(34, 31, 31, 0.274);
+        color: white;
 }
 
 .hero div>button>svg {
@@ -367,6 +368,7 @@ nav {
     background-clip: padding-box;
     border: 1.5px solid rgba(255, 255, 255, 0.3);
     background: transparent;
+        color: white;
 
 }
 
